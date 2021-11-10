@@ -1,0 +1,25 @@
+{
+  "name": "ipgeolocation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ipGeoLocation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lacherogwu/ipGeoLocation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lacherogwu/ipGeoLocation/issues"
+  },
+  "homepage": "https://github.com/lacherogwu/ipGeoLocation#readme",
+  "dependencies": {
+    "aigle": "^1.14.1",
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21"
+  }
+}
